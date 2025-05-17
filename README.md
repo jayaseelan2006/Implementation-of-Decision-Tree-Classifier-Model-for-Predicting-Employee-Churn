@@ -21,6 +21,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 
 ## Program:
+```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: Jayaseelan U
@@ -61,7 +62,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
-
+```
 ## Output:
 ![1](https://github.com/user-attachments/assets/d58659c9-58f2-4a0b-8262-b8c4c31cffad)
 ![2](https://github.com/user-attachments/assets/bf105051-e9bf-4971-86a2-a2a5dcd0127c)
